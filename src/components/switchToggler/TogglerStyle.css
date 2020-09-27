@@ -1,0 +1,16 @@
+.circle {
+    width: 30px;
+    height: 30px;
+    background-color: slategrey;
+    border-radius: 15px;
+    border: solid 3px #61dafb;
+    margin-right: 5px ;
+
+}
+.toggler {
+    display: flex;
+    align-items: center;
+}
+.circle:hover {
+    cursor: pointer;
+}

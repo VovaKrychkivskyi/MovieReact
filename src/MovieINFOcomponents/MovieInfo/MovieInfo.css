@@ -1,0 +1,12 @@
+.block {
+    overflow: hidden;
+    height: 200px;
+    width: 100%;
+}
+
+.block__inner {
+    -webkit-column-width: 150px;
+    -moz-column-width: 150px;
+    column-width: 150px;
+    height: 100%;
+}

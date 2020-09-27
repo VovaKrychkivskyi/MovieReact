@@ -1,0 +1,9 @@
+.cardCustom {
+    max-width: 300px;
+    min-width: 250px;
+    margin: 10px;
+}
+.cardCustom:hover {
+    cursor: pointer !important;
+    border: 1px solid black !important; ;
+}

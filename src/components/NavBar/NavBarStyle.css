@@ -1,0 +1,15 @@
+.nawBar {
+   justify-content: center;
+    align-items: center;
+
+}
+.direction {
+    display: flex;
+}
+.nawBar>div {
+    margin: 10px;
+}
+.nawBar a:hover{
+    text-decoration: none;
+
+}

@@ -1,0 +1,18 @@
+.userAvatar {
+    width: 65px;
+    height: 65px;
+}
+.userAvatarScroled {
+    width: 35px;
+    height: 35px;
+}
+.userNameStyle {
+    justify-self: center;
+    align-self: center;
+    margin: 5px;
+}
+.UserInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}

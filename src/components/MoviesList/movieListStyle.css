@@ -1,0 +1,15 @@
+.DarkTheme {
+   background-color: slategrey !important;
+    color: white !important;
+}
+.BrightTheme {
+    background-color: white !important;
+    color: black;
+}
+@media screen and (max-width: 1200px)
+{
+   .groupList
+    {
+       display: none;
+    }
+}

@@ -1,0 +1,11 @@
+.header {
+     border-bottom: solid 2px gainsboro;
+     background-color: white;
+ }
+.headerScroled {
+    height: 50px;
+}
+.iconMenu {
+    height: 40px;
+    width: 40px;
+}
